@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Joachim & Emilie`s MatBlogg</title>
+</head>
+
+<body>
+
+    <h1>Tom Yum Goong Suppe</h1>
+    <img src="https://t4.ftcdn.net/jpg/02/38/48/37/360_F_238483718_2bRzJbr1WzbQ0gvd4axR4oghZQ4HzPGr.jpg"
+        alt="Tom Yum Goong Suppe">
+
+
+    <h2>Beskrivelse av retten</h2>
+    <p>Tom Yum Goong er en krydret og smaksrik suppe som er svært populær i Thailand. Den er laget med en base av
+        kokosmelk og vann, og krydret med chili, ingefær, limeblad og sitrongress. Suppen er også tilsatt scampi, som
+        gir den et løft av smak og tekstur. <br><br>
+
+        Denne suppen har en unik balanse mellom sødme, surhet og salt, noe som gjør den svært fristende. Den er også
+        svært lett å lage, og ingrediensene kan tilpasses etter eget ønske og smak. Tom Yum Goong kan serveres med ris
+        eller nudler, og toppet med fersk koriander for ekstra smak og aroma.
+
+        <br><br>
+
+        Tom Yum Goong er en perfekt rett for de som ønsker å prøve noe nytt og krydret, og som ønsker å få en smak av
+        Thailand hjemme i eget kjøkken. Det er en god rett for en kald vinterdag, eller for å friske opp i varme
+        sommerdager. Det er enkel å tilpasse til dine personlige preferanser, og du kan gjøre det så krydret eller mildt
+        som du ønsker.
+
+        <br><br>
+
+        En av de mest bemerkelsesverdige tingene med Tom Yum Goong er den unike aromaen som kommer fra kombinasjonen av
+        krydder og urter. Limeblad og sitrongress gir en frisk og syrlig aroma, mens chili og ingefær gir en krydret
+        smak. Kokosmelken gir en søt undertone, og scampiene gir en deilig smak av sjømat. Alt sammen gir en
+        smaksopplevelse som ikke kan beskrives med ord.
+
+        <br><br>
+
+        Tom Yum Goong suppen kan være en fin måte å introdusere asiatisk mat til personer som ikke har prøvd det før, og
+        det er også en populær rett blant de som er vant til asiatisk mat. Det er enkel å lage og kan tilpasses etter
+        eget ønske og smak, og det er en perfekt rett for å dele med venner og familie.
+    </p>
+    <h2>Ingredienser:</h2>
+    <ul>
+        <li>1 kg scampi</li>
+        <li>2 kokosmelk kartonger (800ml)</li>
+
+        <li>2-3 ferske chili</li>
+        <li>1-2 ss ingefær</li>
+        <li>Skallet av 1 lime eller sitron</li>
+        <li>2 ss fish sauce</li>
+        <li>1 ss sukker</li>
+        <li>2-3 ss sitronsaft</li>
+        <li>Fersk koriander</li>
+        <li>Valgfritt: Ris eller nudler</li>
+    </ul>
+    <h2>Fremgangsmåte:</h2>
+    <ol>
+        <li>Skrell og rengjør scampiene og sett dem til side.</li>
+        <li>Skjær chili, ingefær og sitronskall i små biter.</li>
+        <li>I en stor kjele, kok opp ca 8-10 dl vann.</li>
+        <li>Tilsett chili, ingefær og sitronskall i kjelen og la det koke i ca 1 minutt.</li>
+        <li>Tilsett kokosmelk, scampi, fish sauce, sukker og sitronsaft. Rør godt for å blande ingrediensene.</li>
+        <li>La suppen koke i ca 2-3 minutter, eller til scampiene er ferdig tilberedt.</li>
+        <li>Server suppen med fersk koriander og eventuelt ris eller nudler.</li>
+    </ol>
+    <h2>Handleliste</h2>
+    <ul>
+        <li>Scampi</li>
+        <li>Kokosmelk</li>
+        <li>Sitrongress</li>
+        <li>Limeblad</li>
+        <li>Chili</li>
+        <li>Ingefær</li>
+        <li>Fersk koriander (Til pynt)</li>
+        <li>Ris eller nudler (Valgfritt)</li>
+        <li>Fish sauce</li>
+        <li>Sukker</li>
+        <li>Lime (valgfritt)</li>
+
+    </ul>
+</body>
+
+</html>
